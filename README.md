@@ -12,7 +12,7 @@ This repository contains all the projects I completed as part of my virtual inte
 - **Domain**: Python Programming  
 - **Organization**: CodSoft  
 - **Mode**: Virtual  
-- **Duration**: 10th June 2025 – 10th July 2025  
+- **Duration**: 25th June 2025 – 25th July 2025  
 - **Status**: ✅ All tasks completed successfully
 
 ---
